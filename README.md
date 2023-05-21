@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=cd2yNNInMS4
 
 ### الوصف الوظيفي للمهندس العكسي
 Reverse Engineer - مهندس عكسي
+
 Malware Analyst - محلل برامج خبيثة
+
 Binary Security - امن الثنائيات
+
 System Security - امن انظمة التشغيل
